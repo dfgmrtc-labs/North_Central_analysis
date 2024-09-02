@@ -1,0 +1,57 @@
+sample_id	age	sex	hiv_status	STATE	location	ethnic_group	rural_urban	treatment_status	pSTM	pINH	pRIF	pEMB	gRIF	gINH	gEMB	gPZA	gETH	gCAP	gAMI	gSTM	gLZD	gBDQ	gLEV	gMXF	gCFZ	gDLM	mykrobe	lineage	lineage_description	WHO_category	resistance_status
+sample_01	35	M	NA	BENUE	OTK	I	R	NA	NA	NA	NA	NA	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	4.6.2.2	cameroon	DS	S
+sample_02	55	M	N	BENUE	UN	T	U	NA	NA	NA	NA	NA	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	4.6.2.2	cameroon	DS	S
+sample_09	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	S	S	S	S	S	S	S	R	S	S	S	S	S	S	STM	4.6.2.2	cameroon	STM	R
+sample_10	25	F	P	BENUE	GWER EAST	T	U	NA	NA	NA	NA	NA	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	4.6.2.2	cameroon	DS	S
+sample_11	50	M	NA	BENUE	OTK	I	U	NA	NA	NA	NA	NA	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	4.3.4.2	Lam_1_4_11	DS	S
+sample_15i	34	M	NA	BENUE	OHIMINI	I	R	NA	NA	NA	NA	NA	S	S	S	S	S	S	S	S	S	S	S	S	S	S	NA	4.6.2.2	cameroon	DS	S
+sample_16	35	M	NA	BENUE	OTK	I	R	NA	NA	NA	NA	NA	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	4.6.2.2	cameroon	DS	S
+sample_16i	34	M	NA	BENUE	OHIMINI	I	R	NA	NA	NA	NA	NA	S	S	S	S	S	S	S	S	S	S	S	S	S	S	NA	4.6.2.2	cameroon	DS	S
+sample_17	35	M	NA	BENUE	OTK	I	U	NA	NA	NA	NA	NA	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	4.6.2.2	cameroon	DS	S
+sample_18	35	M	NA	BENUE	GWER EAST	TIV	U	NA	NA	NA	NA	NA	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	4.6.2.2	cameroon	DS	S
+sample_19	32	F	NA	BENUE	UN	T	U	NA	NA	NA	NA	NA	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	4.6.2.2	cameroon	DS	S
+sample_20	15	M	NA	BENUE	OTK	I	U	NA	NA	NA	NA	NA	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	4.6.2.2	cameroon	DS	S
+sample_20i	34	M	N	NIG	NA	NA	NA	F-UP	S	S	R	S	S	S	S	S	S	S	S	R	S	S	S	S	S	S	STM	4.6.4	lam	STM	R
+sample_21i	45	M	N	NIG	NA	NA	NA	F-UP	S	S	R	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	4.6.4	lam	DS	S
+sample_22	32	M	P	BENUE	OTK	I	R	NA	NA	NA	NA	NA	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	4.1.2.1	haarlem	DS	S
+sample_22i	45	M	P	NAS	NA	NA	NA	F-UP	S	S	R	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	4.6.2.2	cameroon	DS	S
+sample_24	30	M	NA	BENUE	MKD	H	U	NA	NA	NA	NA	NA	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	4.6.2.2	cameroon	DS	S
+sample_26	38	M	NA	BENUE	OTK	I	U	NA	NA	NA	NA	NA	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	4.6.2.2	cameroon	DS	S
+sample_32	40	M	NA	BENUE	OMALA	U	R	NA	NA	NA	NA	NA	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	4.6.4	lam	DS	S
+sample_33	34	M	NA	BENUE	OHIMINI	I	R	NA	NA	NA	NA	NA	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	4.6.4	lam	DS	S
+sample_34	36	F	P	BENUE	OTK	I 	U	NA	NA	NA	NA	NA	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	4.6.4	lam	DS	S
+sample_60	29	M	N	BENUE	NA	NA	 NA	F-UP	S	S	R	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	4.6.2.2	cameroon	DS	S
+sample_61	37	M	N	BENUE	NA	NA	NA	F-UP	S	S	R	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	4.6.2.2	cameroon	DS	S
+sample_62	23	F	P	BENUE	NA	NA	NA	NEW	NA	NA	NA	NA	S	S	S	S	S	S	S	S	S	S	S	S	S	S	r(INH, ETH)	4.6.2.2	cameroon	DS	S
+sample_63	30	F	NA	FCT	NA	NA	NA	NEW	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	4.6.4	lam	DS	S
+sample_64	36	M	NA	FCT	NA	NA	NA	NEW	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	4.6.2.2	cameroon	DS	S
+sample_66	25	F	NA	FCT	NA	NA	NA	NEW	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	4.6.2.2	cameroon	DS	S
+sample_68		M	NA	FCT	NA	NA	NA	NEW	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	4.6.2.2	cameroon	DS	S
+sample_69	42	M	NA	FCT	NA	NA	NA	NEW	S	R	S	S	S	R	S	S	R	S	S	S	S	S	S	S	S	S	INH, ETH, STM	4.6.2.2	cameroon	INH	R
+sample_70	25	M	NA	FCT	NA	NA	NA	NEW	S	S	S	S	R	S	S	S	S	S	S	S	S	S	S	S	S	S	r(RIF), STM	4.6.2.2	cameroon	RIF	R
+sample_71	42	M	NA	FCT	NA	NA	NA	F-UP	S	R	R	S	R	R	S	R	R	S	S	S	S	S	S	S	S	S	r(INH, ETH, PZA, RIF, STM)	4.6.4	lam	MDR	R
+sample_72	25	M	NA	FCT	NA	NA	NA	F-UP	S	S	R	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	4.6.2.2	cameroon	DS	S
+sample_73	25	M	N	FCT	NA	NA	NA	F-UP	NA	NA	NA	NA	S	S	S	S	S	S	S	S	S	S	S	S	S	S	STM	4.6.2.2	cameroon	DS	S
+sample_74	35	F	P	FCT	NA	NA	NA	F-UP	S	R	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	4.6.2.2	cameroon	DS	S
+sample_75	30	M	N	PLT	NA	NA	NA	F-UP	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	4.6.2.2	cameroon	DS	S
+sample_76	40	M	N	KWA	NA	NA	NA	NEW	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	4.6	cameroon	DS	S
+sample_77	30	F	N	KWA	NA	NA	NA	NEW	S	S	S	S	S	S	S	R	S	S	S	S	S	S	S	S	S	S	r(PZA)	4.6.2.2	cameroon	PZA	R
+sample_78	22	M	N	KWA	NA	NA	NA	NEW	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	4.6.2.2	cameroon	DS	S
+sample_79	25	M	NA	NAS	NA	NA	NA	F-UP	S	R	R	S	S	R	S	S	R	S	S	S	S	S	S	S	S	S	INH,ETH	4.6.2.2	cameroon	INH	R
+sample_80	32	M	NA	NAS	NA	NA	NA	F-UP	S	R	R	S	S	R	S	S	R	S	S	S	S	S	S	S	S	S	INH,ETH	4.6.2.2	cameroon	INH	R
+sample_81	20	F	N	NIG	NA	NA	NA	F-UP	S	S	R	S	S	S	S	S	S	S	S	R	S	S	S	S	S	S	STM	4.6.4	lam	STM	R
+sample_82	20	M	N	PLT	NA	NA	NA	F-UP	S	R	R	S	S	R	S	S	R	S	S	S	S	S	S	S	S	S	r(INH, ETH), STM		cameroon	INH	R
+sample_83	32	F	N	PLT	NA	NA	NA	NEW	S	S	S	S	R	S	S	S	S	S	S	S	S	S	S	S	S	S	RIF	4.6.2.2	cameroon	RIF	R
+sample_84	31	M	N	PLT	NA	NA	NA	NEW	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	4.6	cameroon	DS	S
+sample_85	30	F	P	PLT	NA	NA	NA	F-UP	NA	NA	NA	NA	R	S	S	S	S	S	S	S	S	S	S	S	S	S	RIF	4.6.2.2	cameroon	RIF	R
+sample_86	26	M	P	UN	NA	NA	NA	NEW	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	S	4.6.2.2	cameroon	DS	S
+sample_87	20	M	NA	NIG	NA	NA	NA	F-UP	S	R	S	R	R	S	S	S	S	S	S	S	S	S	S	S	S	S	RIF	4.6.2.2	cameroon	RIF	R
+sample_88	38	F	P	NA	NA	NA	NA	F-UP	S	R	R	R	R	S	S	S	S	S	S	S	S	S	S	S	S	S	RIF	4.6.2.2	cameroon	RIF	R
+sample_89	35	M	N	NIG	NA	NA	NA	F-UP	S	S	R	R	R	S	S	S	S	S	S	R	S	S	S	S	S	S	RIF, STM	4.6.2.2	cameroon	RIF	R
+sample_90	35	M	N	NIG	NA	NA	NA	NEW	S	S	S	S	R	S	S	S	S	S	S	S	S	S	S	S	S	S	RIF	4.6.2.2	cameroon	RIF	R
+sample_91	25	F	N	NIG	NA	NA	NA	F-UP	S	S	S	R	R	S	S	S	S	S	S	S	S	S	S	S	S	S	RIF	4.6.2.2	cameroon	RIF	R
+sample_92	31	F	P	KG	NA	NA	NA	F-UP	S	R	R	R	R	R	R	S	S	S	S	R	S	S	S	S	S	S	r(EMB), INH, RIF, STM	4.6.2.2	cameroon	MDR	R
+sample_93	47	M	P	KG	NA	NA	NA	F-UP	S	R	S	R	R	S	S	S	S	S	S	R	S	S	S	S	S	S	r(INH,ETH,STM), RIF	4.6.2.2	cameroon	RIF	R
+sample_94	35	M	P	KG	NA	NA	NA	F-UP	S	S	S	S	R	S	S	S	S	S	S	S	S	S	S	S	S	S	RIF	4.6.2.2	cameroon	RIF	R
+sample_95	25	M	N	KG	NA	NA	NA	NEW	S	S	S	S	R	R	S	S	R	S	S	S	S	S	S	S	S	S	INH, ETH, RIF	4.3.1	Lam_9	MDR	R
+sample_96	25	M	N	NIG	NA	NA	NA	F-UP	S	R	R	R	R	R	S	S	R	S	S	S	S	S	S	S	S	S	r(INH, ETH, RIF, STM)	4.6.2.2	cameroon	MDR	R

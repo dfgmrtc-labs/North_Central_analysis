@@ -1,0 +1,57 @@
+sample_name	ass_res_drugs	WHO_DR_STATUS
+sample_01	Susceptible to all drugs	DS
+sample_02	Susceptible to all drugs	DS
+sample_09	Resistant to STM	SM
+sample_10	Susceptible to all drugs	DS
+sample_11	Susceptible to all drugs	DS
+sample_16	Susceptible to all drugs	DS
+sample_16i	Susceptible to all drugs	DS
+sample_17	Susceptible to all drugs	DS
+sample_18	Susceptible to all drugs	DS
+sample_19	Susceptible to all drugs	DS
+sample_1a	Susceptible to all drugs	DS
+sample_20	Susceptible to all drugs	DS
+sample_20i	Resistant to STM	SM
+sample_21i	Susceptible to all drugs	DS
+sample_22	Susceptible to all drugs	DS
+sample_22i	Susceptible to all drugs	DS
+sample_24	Susceptible to all drugs	DS
+sample_26	Susceptible to all drugs	DS
+sample_32	Susceptible to all drugs	DS
+sample_33	Susceptible to all drugs	DS
+sample_34	Susceptible to all drugs	DS
+sample_60	Susceptible to all drugs	DS
+sample_61	Susceptible to all drugs	DS
+sample_62	Susceptible to all drugs	DS
+sample_63	Susceptible to all drugs	DS
+sample_64	Susceptible to all drugs	DS
+sample_66	Susceptible to all drugs	DS
+sample_68	Susceptible to all drugs	DS
+sample_69	Resistant to ETH,INH	INH
+sample_70	Resistant to RIF	RR
+sample_71	Resistant to ETH,INH,PZA,RIF	MDR
+sample_72	Susceptible to all drugs	DS
+sample_73	Susceptible to all drugs	DS
+sample_74	Susceptible to all drugs	DS
+sample_75	Susceptible to all drugs	DS
+sample_76	Susceptible to all drugs	DS
+sample_77	Resistant to PZA	PZN
+sample_78	Susceptible to all drugs	DS
+sample_79	Resistant to ETH,INH	INH
+sample_80	Resistant to ETH,INH	INH
+sample_81	Resistant to STM	SM
+sample_82	Resistant to ETH,INH	INH
+sample_83	Resistant to RIF	RR
+sample_84	Susceptible to all drugs	DS
+sample_85	Resistant to RIF	RR
+sample_86	Susceptible to all drugs	DS
+sample_87	Resistant to RIF	RR
+sample_88	Resistant to RIF	RR
+sample_89	Resistant to RIF,STM	RR
+sample_90	Resistant to RIF	RR
+sample_91	Resistant to RIF	RR
+sample_92	Resistant to EMB,INH,RIF,STM	MDR
+sample_93	Resistant to RIF,STM	RR
+sample_94	Resistant to RIF	RR
+sample_95	Resistant to ETH,INH,RIF	MDR
+sample_96	Resistant to ETH,INH,RIF	MDR

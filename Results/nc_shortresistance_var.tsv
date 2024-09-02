@@ -1,0 +1,57 @@
+sample_name	ass_res_drugs	who_drug_res_profile
+sample_01	Susceptible to all drugs	Drug-Susceptible
+sample_02	Susceptible to all drugs	Drug-Susceptible
+sample_09	Resistant to STM	Streptomycin-Resistant
+sample_10	Susceptible to all drugs	Drug-Susceptible
+sample_11	Susceptible to all drugs	Drug-Susceptible
+sample_16	Susceptible to all drugs	Drug-Susceptible
+sample_16i	Susceptible to all drugs	Drug-Susceptible
+sample_17	Susceptible to all drugs	Drug-Susceptible
+sample_18	Susceptible to all drugs	Drug-Susceptible
+sample_19	Susceptible to all drugs	Drug-Susceptible
+sample_1a	Susceptible to all drugs	Drug-Susceptible
+sample_20	Susceptible to all drugs	Drug-Susceptible
+sample_20i	Resistant to STM	Streptomycin-Resistant
+sample_21i	Susceptible to all drugs	Drug-Susceptible
+sample_22	Susceptible to all drugs	Drug-Susceptible
+sample_22i	Susceptible to all drugs	Drug-Susceptible
+sample_24	Susceptible to all drugs	Drug-Susceptible
+sample_26	Susceptible to all drugs	Drug-Susceptible
+sample_32	Susceptible to all drugs	Drug-Susceptible
+sample_33	Susceptible to all drugs	Drug-Susceptible
+sample_34	Susceptible to all drugs	Drug-Susceptible
+sample_60	Susceptible to all drugs	Drug-Susceptible
+sample_61	Susceptible to all drugs	Drug-Susceptible
+sample_62	Susceptible to all drugs	Drug-Susceptible
+sample_63	Susceptible to all drugs	Drug-Susceptible
+sample_64	Susceptible to all drugs	Drug-Susceptible
+sample_66	Susceptible to all drugs	Drug-Susceptible
+sample_68	Susceptible to all drugs	Drug-Susceptible
+sample_69	Resistant to ETH,INH	Isoniazid-Monoresistant
+sample_70	Resistant to RIF	Rifampicin-Resistant
+sample_71	Resistant to ETH,INH,PZA,RIF	Multidrug-Resistant
+sample_72	Susceptible to all drugs	Drug-Susceptible
+sample_73	Susceptible to all drugs	Drug-Susceptible
+sample_74	Susceptible to all drugs	Drug-Susceptible
+sample_75	Susceptible to all drugs	Drug-Susceptible
+sample_76	Susceptible to all drugs	Drug-Susceptible
+sample_77	Resistant to PZA	Pyrazinamide-Monoresistant
+sample_78	Susceptible to all drugs	Drug-Susceptible
+sample_79	Resistant to ETH,INH	Isoniazid-Monoresistant
+sample_80	Resistant to ETH,INH	Isoniazid-Monoresistant
+sample_81	Resistant to STM	Streptomycin-Resistant
+sample_82	Resistant to ETH,INH	Isoniazid-Monoresistant
+sample_83	Resistant to RIF	Rifampicin-Resistant
+sample_84	Susceptible to all drugs	Drug-Susceptible
+sample_85	Resistant to RIF	Rifampicin-Resistant
+sample_86	Susceptible to all drugs	Drug-Susceptible
+sample_87	Resistant to RIF	Rifampicin-Resistant
+sample_88	Resistant to RIF	Rifampicin-Resistant
+sample_89	Resistant to RIF,STM	Rifampicin-Resistant
+sample_90	Resistant to RIF	Rifampicin-Resistant
+sample_91	Resistant to RIF	Rifampicin-Resistant
+sample_92	Resistant to EMB,INH,RIF,STM	Multidrug-Resistant
+sample_93	Resistant to RIF,STM	Rifampicin-Resistant
+sample_94	Resistant to RIF	Rifampicin-Resistant
+sample_95	Resistant to ETH,INH,RIF	Multidrug-Resistant
+sample_96	Resistant to ETH,INH,RIF	Multidrug-Resistant
