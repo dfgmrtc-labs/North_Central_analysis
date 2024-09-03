@@ -1,9 +1,6 @@
 #!/bin/python
 #!/usr/bin/env python3
-# Upload contigs file to PubMLST rMLST species identifier via RESTful API
-# Written by Keith Jolley
-# Copyright (c) 2018, University of Oxford
-# Licence: GPL3
+# Originally written by Keith Jolley and adapted by ycode-sh for PUBMLST profiling 
 
 import sys, requests, argparse, base64
 parser = argparse.ArgumentParser()
